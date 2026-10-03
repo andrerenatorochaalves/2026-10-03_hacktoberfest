@@ -1,1 +1,2 @@
-# 2026-10-03_hacktoberfest
+# Adicionar arquivo python hello.py
+
